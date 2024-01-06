@@ -1,0 +1,9 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "110990030")(type "KiCad")(uri "${KIPRJMOD}/110990030")(options "")(descr "")(disabled))
+  (lib (name "CMA-4544PF-W")(type "KiCad")(uri "${KIPRJMOD}/CMA-4544PF-W")(options "")(descr "")(disabled))
+  (lib (name "MAX4466EXK")(type "KiCad")(uri "${KIPRJMOD}/MAX4466EXK")(options "")(descr "")(disabled))
+  (lib (name "Grove_sensor")(type "KiCad")(uri "${KIPRJMOD}/Grove_sensor.pretty")(options "")(descr "")(disabled))
+  (lib (name "Shield")(type "KiCad")(uri "${KIPRJMOD}/Shield.pretty")(options "")(descr "")(disabled))
+  (lib (name "Empreintes_projet")(type "KiCad")(uri "${KIPRJMOD}/Empreintes_projet.pretty")(options "")(descr ""))
+)
